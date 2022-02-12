@@ -51,7 +51,7 @@ alignItems="center"
            <div className="prof_block">
                <img src={back}/>
                 <p className="heading">Backend</p>
-                <p className="subheading">Express.js, MongoDB, Firebase</p>
+                <p className="subheading">Express.js, MongoDB,Node.js</p>
             </div>
 
    </Grid>
@@ -59,7 +59,7 @@ alignItems="center"
        <div className="prof_block">
                <img src={front}/>
                <p className="heading">Frontend</p>
-               <p className="subheading">HTML, CSS, React, Redux, Javascript, Typescript, MaterialUI</p>
+               <p className="subheading">HTML, CSS, React, Redux, Javascript, MaterialUI</p>
        </div>    
    </Grid>
    <Grid item xl={2} lg={3} md={4} sm={6} xs={12}>
