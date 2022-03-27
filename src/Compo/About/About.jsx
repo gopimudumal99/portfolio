@@ -84,7 +84,7 @@ function About() {
                       className="pchange"
                       style={{ color: "teal", marginTop: "0px" }}
                       target="_blank"
-                      href="https://drive.google.com/file/d/1AidrHaiDCOfw-m4LP_RY8aDlHk4J3ys9/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1tSoJZXkJob-WWcxuU6Su5cije9wyPgC3/view"
                     >
                       {" "}
                       <p
