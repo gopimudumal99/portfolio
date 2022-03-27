@@ -7,13 +7,11 @@
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",
-    "browserslist": "^4.19.1",
-    "caniuse-lite": "^1.0.30001312",
     "gh-pages": "^3.2.3",
     "github-calendar": "^2.2.9",
+    "gsap": "^3.9.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-github-calendar": "^2.0.2",
     "react-icons": "^4.3.1",
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
@@ -49,6 +47,5 @@
   },
   "main": "src/index.js",
   "repository": "https://github.com/gopimudumal99/portfolio.git",
-  "author": "gopimudumal99 <93375587+gopimudumal99@users.noreply.github.com>",
   "license": "MIT"
 }
